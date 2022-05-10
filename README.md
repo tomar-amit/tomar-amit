@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Tomar
-- 👀 I’m interested in Research and Development
+- 👀 I’m interested in Deep Learning and Natural Language Processing
 - 📫 @mail amittomar.it@gmail.com @phone +91-8800521099
 
 <!---
