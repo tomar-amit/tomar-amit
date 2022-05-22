@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Amit Tomar
-- 👀 I’m interested in Deep Learning and Natural Language Processing
+- 👋 Hi, I’m Amit Tomar. I am a passionate self-learner and NLP enthusiast.
+- I love exploring 👀 and Working 🏋️ with love ❤️ on Deep Learning 🤖 & Natural Language Processing 🗣️.
 - 📫 @mail amittomar.it@gmail.com @phone +91-8800521099
 
 <!---
